@@ -7,5 +7,5 @@ package bean;
  */
 public class StudyController {
     private String name;
-
+    private String usename;
 }
